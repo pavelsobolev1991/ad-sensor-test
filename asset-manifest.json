@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ad-sensor-test/static/css/main.b176c2e5.css",
+    "main.js": "/ad-sensor-test/static/js/main.dd45be5f.js",
+    "static/media/Montserrat-Bold.woff": "/ad-sensor-test/static/media/Montserrat-Bold.2d4caa50dd229fc95c92.woff",
+    "static/media/Montserrat-Medium.woff": "/ad-sensor-test/static/media/Montserrat-Medium.65c19d04aca21feb3297.woff",
+    "static/media/Montserrat-SemiBold.woff": "/ad-sensor-test/static/media/Montserrat-SemiBold.33b42a4120ad5eb648ec.woff",
+    "static/media/Roboto-Regular.woff": "/ad-sensor-test/static/media/Roboto-Regular.a676b4f72910ffeeca25.woff",
+    "index.html": "/ad-sensor-test/index.html",
+    "main.b176c2e5.css.map": "/ad-sensor-test/static/css/main.b176c2e5.css.map",
+    "main.dd45be5f.js.map": "/ad-sensor-test/static/js/main.dd45be5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b176c2e5.css",
+    "static/js/main.dd45be5f.js"
+  ]
+}
