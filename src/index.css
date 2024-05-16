@@ -1,0 +1,17 @@
+@import './assets/fonts/fonts.css';
+@import './colors.css';
+
+body,
+html,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: var(--main-color);
+  font-family: Montserrat;
+}
+
+h1, p {
+  margin: 0
+}
